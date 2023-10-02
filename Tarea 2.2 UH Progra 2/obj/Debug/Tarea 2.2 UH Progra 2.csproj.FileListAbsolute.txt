@@ -1,0 +1,7 @@
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Tarea 2.2 UH Progra 2\bin\Debug\Tarea 2.2 UH Progra 2.exe.config
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Tarea 2.2 UH Progra 2\bin\Debug\Tarea 2.2 UH Progra 2.exe
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Tarea 2.2 UH Progra 2\bin\Debug\Tarea 2.2 UH Progra 2.pdb
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Tarea 2.2 UH Progra 2\obj\Debug\Tarea 2.2 UH Progra 2.csproj.AssemblyReference.cache
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Tarea 2.2 UH Progra 2\obj\Debug\Tarea 2.2 UH Progra 2.csproj.CoreCompileInputs.cache
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Tarea 2.2 UH Progra 2\obj\Debug\Tarea 2.2 UH Progra 2.exe
+C:\Users\JOSE PABLO\source\repos\Tiposdedatos\Tarea 2.2 UH Progra 2\obj\Debug\Tarea 2.2 UH Progra 2.pdb
